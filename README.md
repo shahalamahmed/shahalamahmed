@@ -1,6 +1,10 @@
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Shah Alam, a web developer from  <b>Dhaka, Bangladesh</b>. </p>
+<div style="background-color: #f0f0f0; padding: 20px; text-align: center;">
+  <h1 style="font-size: 2.5em;"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="vertical-align: middle; margin-right: 10px;"/> Hey! Nice to see you.</h1>
+  <p style="font-size: 1.2em;">Welcome to my page!<br/>I'm Shah Alam, a web developer from <b>Dhaka, Bangladesh</b>.</p>
+  <p style="margin-top: 20px;">
+    <a href="https://github.com/your-github-username" style="text-decoration: none; background-color: #24292f; color: #ffffff; padding: 10px 20px; border-radius: 5px; font-weight: bold; font-size: 1.2em;">Visit My GitHub Profile</a>
+  </p>
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahalamahmed)](https://git.io/streak-stats)
 <h3>Things I code with</h3>
