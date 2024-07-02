@@ -1,9 +1,5 @@
-<div style="background-color: #0D1117; color: #ffffff; padding: 40px; text-align: center;">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="60" style="margin-bottom: 20px;" />
-  <h1 style="font-size: 2.5em; margin-bottom: 10px;">Hey there, I'm Shah Alam!</h1>
-  <p style="font-size: 1.2em; margin-bottom: 20px;">Welcome to my GitHub profile. I'm a passionate web developer based in Dhaka, Bangladesh.</p>
-  <a href="https://github.com/your-github-username" style="text-decoration: none; background-color: #1a73e8; color: #ffffff; padding: 12px 24px; border-radius: 5px; font-weight: bold; font-size: 1.2em;">Visit My GitHub Profile</a>
-</div>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm Shah Alam, a web developer from  <b>Dhaka, Bangladesh</b>. </p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahalamahmed)](https://git.io/streak-stats)
