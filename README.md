@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Shah Alam, a web developer from  <b>Dhaka, Bangladesh</b>. </p>
+<p>Welcome to my page! I'm Shah Alam, a web developer based in <b>Dhaka, Bangladesh</b>. With a strong passion for creating meaningful web applications, I specialize in frontend technologies such as HTML, CSS, JavaScript, and frameworks like React. I also have experience in backend development using Node.js and databases like MongoDB. I enjoy solving problems and constantly learning new technologies to improve my skills.</b>. </p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shahalamahmed)](https://git.io/streak-stats)
