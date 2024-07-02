@@ -3,14 +3,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Shah Alam, a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dhaka, Bangladesh</b>. </p>
 
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img src="https://user-images.githubusercontent.com/your-github-username/background-image.png" alt="background image" width="100%"/>
 </p>
 
-## :chart_with_upwards_trend: Current Stats
+<p align="center">Welcome to my page! <br/> I'm Shah Alam, a Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Dhaka, Bangladesh</b>.</p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Shah Alam's GitHub Stats" />
 </p>
 <h3>Things I code with</h3>
 <p>
